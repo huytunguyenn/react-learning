@@ -1,21 +1,48 @@
+### Summary:
 
-## React Basics
+React Basics:
+> Components & reactive updates
+> 
+> Virtual DOM nodes and JSX
+> 
+> Props & State:
+> - (props) => {}
+> - [val, setVal] = useState(initialVal)
+> - Immutable props. Mutable state
+> 
+> ReactDOM.render
+> - arg1: \<Component/>
+> - arg2: DOM node 
+> 
+> React events: onClick, onSubmit, ...
+> 
+> Functions & class components
+> 
+> Every React component (onClick, onChange, v.v) has event argument
+> 
+> Use Axios to call API (AJAX call) 
 
-### TL;DR:
 
-> - Components & reactive updates
-> - Virtual DOM nodes and JSX
-> - Props & State:
->  - (props) => {}
->  - [val, setVal] = useState(initialVal)
->  - Immutable props. Mutable state
-> - ReactDOM.render
->  - arg1: \<Component/>
->  - arg2: DOM node 
-> - React events: onClick, onSubmit, ...
-> - Functions & class components
+TC39:
+> Scope & Variable
+> 
+> Arrow Functions
+> 
+> Object Literals
+> 
+> Destructuring
+> 
+> Rest/Spread Operator
+> 
+> Template String
+> 
+> Classes
+> 
+> Async/Await
 
 ---
+
+## React Basics
 
 React component should start with uppercase, because React treats lowercase as HTML element.
 
